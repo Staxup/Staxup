@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah
+- 👋 Hi, I’m Nuh
 - 🧚🏽 I have experience in Python, C++, Java, JavaScript, HTML, C, Linux 
 - 🌱 I’m currently learning the full extent of Python and OOP 
 - 💞️ I started to learn how to code the summer before college started 
